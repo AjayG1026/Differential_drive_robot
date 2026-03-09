@@ -1,0 +1,9 @@
+[0.014s] Invoking command in '/home/ajay/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=/home/ajay/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ajay/bumperbot_ws/build/bumperbot_controller -- -j16 -l16
+[0.053s] Built target ament_cmake_python_copy_bumperbot_controller
+[0.201s] running egg_info
+[0.201s] writing bumperbot_controller.egg-info/PKG-INFO
+[0.201s] writing dependency_links to bumperbot_controller.egg-info/dependency_links.txt
+[0.202s] writing top-level names to bumperbot_controller.egg-info/top_level.txt
+[0.205s] reading manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[0.205s] writing manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[0.221s] Built target ament_cmake_python_build_bumperbot_controller_egg

@@ -1,0 +1,2 @@
+Invoking command in '/home/ajay/bumperbot_ws/build/bumperbot_msgs': CMAKE_PREFIX_PATH=/home/ajay/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ajay/bumperbot_ws/build/bumperbot_msgs -- -j16 -l16
+Invoked command in '/home/ajay/bumperbot_ws/build/bumperbot_msgs' returned '2': CMAKE_PREFIX_PATH=/home/ajay/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ajay/bumperbot_ws/build/bumperbot_msgs -- -j16 -l16
